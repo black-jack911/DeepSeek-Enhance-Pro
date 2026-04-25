@@ -42,9 +42,7 @@
 
 **方法一：一键安装（推荐）**
 
-1. 点击本仓库的 `deepseek-enhance-pro.user.js` 文件
-2. 点击「Raw」按钮，Tampermonkey 会自动弹出安装页面
-3. 点击「安装」即可
+1. chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=e40d7f6a-405f-44b8-b25f-5c1b6e4097a3
 
 **方法二：手动安装**
 
